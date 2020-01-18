@@ -1,0 +1,11 @@
+{
+  "name": "node-local",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
